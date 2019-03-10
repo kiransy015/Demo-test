@@ -1,3 +1,4 @@
 public static void Sample(){
 	System.out.println("Welcome to Selenium class");
+	Sytem.out.println("Welcome to Java Class");
 }
